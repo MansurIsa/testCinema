@@ -1,0 +1,17 @@
+[
+{
+    "id":1,
+    "title":"Jumanji",
+    "video":"./videos/trailer/JUMANJI_ WELCOME TO THE JUNGLE - Official Trailer (HD).mp4"
+},
+{
+    "id":2,
+    "title":"Marry Me",
+    "video":"./videos/trailer/Marry Me - Official Trailer [HD].mp4"
+},
+{
+    "id":3,
+    "title":"Kimi",
+    "video":"./videos/trailer/KIMI _ Official Trailer _ HBO Max.mp4"
+}
+]

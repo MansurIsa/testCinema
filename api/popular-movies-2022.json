@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4,
+    "title": "The 355",
+    "image": "./images/popular_movies_2022/image 9.png",
+    "age": ""
+  },
+  {
+    "id": 5,
+    "title": "Turning Red",
+    "image": "./images/popular_movies_2022/image 10.png",
+    "age": "new"
+  },
+  {
+    "id": 6,
+    "title": "Harry Potter 2022",
+    "image": "./images/popular_movies_2022/Rectangle 16.png",
+    "age": "new"
+  },
+  {
+    "id": 7,
+    "title": "The Adam Project",
+    "image": "./images/popular_movies_2022/image 11 (1).png",
+    "age": ""
+  }
+  ,
+  {
+    "id": 16,
+    "title": "The Adam Project",
+    "image": "./images/popular_movies_2022/Rectangle 16.png",
+    "age": ""
+  },
+  
+  {
+    "id": 17,
+    "title": "The Adam Project",
+    "image": "./images/popular_movies_2022/image 11 (1).png",
+    "age": ""
+  },
+  {
+    "id": 18,
+    "title": "The Adam Project",
+    "image": "./images/popular_movies_2022/image 10.png",
+    "age": ""
+  }
+  
+]

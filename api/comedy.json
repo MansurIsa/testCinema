@@ -1,0 +1,28 @@
+[
+    {
+      "id": 8,
+      "title": "Late Night",
+      "image": "./images/comedy/Rectangle 25.png",
+      "age": ""
+    },
+    {
+      "id": 9,
+      "title": "Free Guy",
+      "image": "./images/comedy/Rectangle 26.png",
+      "age": ""
+    },
+    {
+      "id": 10,
+      "title": "The king of Island",
+      "image": "./images/comedy/Rectangle 27.png",
+      "age": "new"
+    },
+    {
+      "id": 11,
+      "title": "The Adam Project",
+      "image": "./images/comedy/Rectangle 28.png",
+      "age": ""
+    }
+    
+  ]
+  
